@@ -1,3 +1,3 @@
 i am from tigray ncgm
 
-p
+this is from remote repository
